@@ -1,1 +1,1 @@
-print("merge assignment")
+print("merge assignment all")
